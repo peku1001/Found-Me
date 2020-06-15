@@ -1,10 +1,10 @@
 {
    "short_name": "Found Me",
    "name": "FoundMe",
-   "start_url": "/index.html",
+   "start_url": "/src/views/full_Map",
    "display":"standalone",
-   "background_color": "#ff6e40",
-   "theme_color": "#c53d13",
+   "background_color": "#ffffff",
+   "theme_color": "#ff6e40",
    "orientation": "portrait-primary",
    "icons": [
         {
@@ -47,5 +47,5 @@
             "type": "image/png",
             "sizes": "512x512"
          }
-   ] 
+   ]
 }

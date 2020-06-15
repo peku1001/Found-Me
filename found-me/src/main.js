@@ -13,3 +13,9 @@ new Vue({
   vuetify,
   render: h => h(App)
 }).$mount('#app')
+
+/* if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('../src/registerServiceWorker.js')
+    .then(() => console.log('Service worker registered'))
+    .catch((error) => console.log('service worker not registered', error))
+} */

@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "leaflet": "^1.6.0",
+    "mapbox.js": "^3.3.1",
+    "open-location-code": "^1.0.3",
     "register-service-worker": "^1.7.1",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6",
@@ -54,5 +57,9 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "Found Me is an application, that can help african people te receive all their purcharses at home. Every one need a address in a develop country, that is our goal. After that we'll go ahead and add more features, like purcharse a taxis driver, received secure document and more.",
+  "main": "babel.config.js",
+  "author": "Nguefack",
+  "license": "ISC"
 }

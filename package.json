@@ -1,0 +1,19 @@
+{
+  "name": "found-me",
+  "version": "1.0.0",
+  "description": "Found Me is an application, that can help african people te receive all their purcharses at home. Every one need a address in a develop country, that is our goal. After that we'll go ahead and add more features, like purcharse a taxis driver, received secure document and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peku1001/Found-Me.git"
+  },
+  "author": "Nguefack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peku1001/Found-Me/issues"
+  },
+  "homepage": "https://github.com/peku1001/Found-Me#readme"
+}
